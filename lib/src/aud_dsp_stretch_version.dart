@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_dsp_stretch` package.
-const String audDspStretchVersion = '0.0.3';
+const String audDspStretchVersion = '0.1.0';
