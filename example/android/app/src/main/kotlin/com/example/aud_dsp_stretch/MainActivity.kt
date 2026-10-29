@@ -1,4 +1,4 @@
-package com.audanika.aud_dsp_stretch
+package com.example.aud_dsp_stretch
 
 import io.flutter.embedding.android.FlutterActivity
 
